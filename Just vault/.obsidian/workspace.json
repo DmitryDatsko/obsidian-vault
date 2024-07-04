@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cf513ef527cfe89c",
+        "id": "4461a4c0cabefe8b",
         "type": "tabs",
         "children": [
           {
-            "id": "894b2a0582ffa2c0",
+            "id": "79d8a679d3c5f635",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Reserved keywords.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a46c05fd2025d5de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Страницы на которых остановился.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945
+    "width": 292.51103591918945
   },
   "right": {
     "id": "27e36e1483c84d06",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Reserved keywords.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Reserved keywords.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Reserved keywords.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,10 +141,29 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "894b2a0582ffa2c0",
+  "active": "79d8a679d3c5f635",
   "lastOpenFiles": [
+    "Programming/Csharp/Value types.md",
+    "Programming/Csharp/Reference types.md",
+    "Programming/Csharp/null.md",
+    "Programming/Csharp/add.md",
+    "Programming/Csharp/Types and Conversions.md",
+    "Programming/Csharp/Reserved keywords.md",
+    "Programming/Csharp/Value Types versus Reference Types.md",
+    "Images/Pasted image 20240703221747.png",
+    "Images/value-type instance in memory.png",
+    "Images",
     "Страницы на которых остановился.md",
-    "Programming/Reserved keywords.md",
+    "Programming/Csharp/Contextual keywords.md",
+    "Programming/Csharp/and.md",
+    "Programming/Csharp/alias.md",
+    "Programming/Csharp/dude.md",
+    "Programming/Csharp/char.md",
+    "Programming/Csharp/bool.md",
+    "Dude.md",
+    "Programming/Csharp/Csharp.md",
+    "Templates/Programming Template.md",
+    "Untitled.canvas",
     "Books/Albahari Joseph-Csharp 12 in a Nutshell2024.pdf",
     "Books/Barrett Daniel - Linux Pocket Guide. Essential Commands, 4th Edition - 2024.pdf",
     "Books/Albahari Joseph-C.md",
@@ -173,13 +172,10 @@
     "Books/Albahari Joseph - C.md",
     "Programming/Csharp/Reserved Keywords/Untitled.md",
     "Programming/Csharp/Reserved Keywords",
-    "Programming/Csharp/Untitled.md",
     "Programming/Untitled",
     "Cache",
     "Books",
     "Programming/Csharp",
-    "Templates/Programming Template.md",
-    "Programming",
     "Welcome.md"
   ]
 }

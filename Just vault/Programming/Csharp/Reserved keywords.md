@@ -1,11 +1,18 @@
 ---
 tags:
   - csharp/reserved_keywords
-files & media: 
-status: 
+files & media: Albahari Joseph - C# 12
+status: In progress
 creation date: 2024-06-26 19:05
 modification date: Wednesday 26th June 2024 19:05:47
 ---
+> [!info] 
+> Некоторые ключевые слова являються *зарезервированными*, что значит они не могут быть использованы как ==идентификаторы==. Если очень нужно использовать зарезервированное слово, то можно использовать ***@*** как префикс:
+```csharp
+int using = 123; // Illegal
+int @using = 123; // Legal
+```
+
 Таблица с зарезервированными ключевыми словами взята из [[Albahari Joseph-Csharp 12 in a Nutshell2024.pdf#page=55]]
 
 - [[abstract]]
