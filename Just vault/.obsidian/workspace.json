@@ -8,14 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "79d8a679d3c5f635",
+            "id": "b2a0436948adc35a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7bc8341f62785ee7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Csharp/Reserved keywords/class.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "496607b40999e7e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Csharp/property.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Csharp/Reserved keywords/class.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Csharp/Reserved keywords/class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Csharp/Reserved keywords/class.md"
+              }
             }
           }
         ],
@@ -136,46 +173,50 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "79d8a679d3c5f635",
+  "active": "7bc8341f62785ee7",
   "lastOpenFiles": [
-    "Programming/Csharp/Value types.md",
-    "Programming/Csharp/Reference types.md",
-    "Programming/Csharp/null.md",
-    "Programming/Csharp/add.md",
-    "Programming/Csharp/Types and Conversions.md",
-    "Programming/Csharp/Reserved keywords.md",
-    "Programming/Csharp/Value Types versus Reference Types.md",
+    "To do.md",
+    "Programming/Csharp/property.md",
+    "Programming/Csharp/method.md",
+    "Programming/Csharp/Reserved keywords/class.md",
+    "Programming/Csharp/Reserved keywords/this.md",
+    "Programming/Csharp/Class constructors.md",
+    "Programming/Csharp/Object initializers.md",
+    "Programming/Csharp/Reserved keywords/readonly.md",
+    "Programming/Csharp/Field.md",
+    "Programming/Csharp/Reserved keywords/event.md",
+    "Programming/Csharp/Class deconstructors.md",
+    "Programming/Csharp/Contextual keywords/yield.md",
+    "Programming/Csharp/Contextual keywords/with.md",
+    "Programming/Csharp/Contextual keywords/where.md",
+    "Programming/Csharp/Contextual keywords/when.md",
+    "Programming/Csharp/Contextual keywords/var.md",
+    "Programming/Csharp/Contextual keywords/value.md",
+    "Programming/Csharp/Contextual keywords/unmanaged.md",
+    "Programming/Csharp/Contextual keywords/set.md",
+    "Programming/Csharp/Contextual keywords/select.md",
+    "Programming/Csharp/Contextual keywords/required.md",
+    "Programming/Csharp/Contextual keywords/remove.md",
+    "Programming/Csharp/Contextual keywords/partial.md",
+    "Programming/Csharp/Contextual keywords/orderby.md",
+    "Programming/Csharp/Contextual keywords/or.md",
+    "Programming/Csharp/Contextual keywords/on.md",
+    "Programming/Csharp/Reserved keywords",
+    "Programming/Csharp/Contextual keywords",
+    "Books/Albahari Joseph-Csharp 12 in a Nutshell2024.pdf",
+    "method",
     "Images/Pasted image 20240703221747.png",
     "Images/value-type instance in memory.png",
     "Images",
-    "Страницы на которых остановился.md",
-    "Programming/Csharp/Contextual keywords.md",
-    "Programming/Csharp/and.md",
-    "Programming/Csharp/alias.md",
-    "Programming/Csharp/dude.md",
-    "Programming/Csharp/char.md",
-    "Programming/Csharp/bool.md",
-    "Dude.md",
-    "Programming/Csharp/Csharp.md",
-    "Templates/Programming Template.md",
     "Untitled.canvas",
-    "Books/Albahari Joseph-Csharp 12 in a Nutshell2024.pdf",
     "Books/Barrett Daniel - Linux Pocket Guide. Essential Commands, 4th Edition - 2024.pdf",
-    "Books/Albahari Joseph-C.md",
     "Books/Martin Kleppmann - Designing Data-Intensive Applications - 2017.pdf",
     "Books/Albahari Joseph - C# 12 in a Nutshell - 2024.pdf",
-    "Books/Albahari Joseph - C.md",
-    "Programming/Csharp/Reserved Keywords/Untitled.md",
     "Programming/Csharp/Reserved Keywords",
-    "Programming/Untitled",
-    "Cache",
-    "Books",
-    "Programming/Csharp",
-    "Welcome.md"
+    "Programming/Untitled"
   ]
 }

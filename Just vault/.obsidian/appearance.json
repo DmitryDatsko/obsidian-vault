@@ -3,6 +3,7 @@
   "cssTheme": "Obsidian Nord",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "something"
+    "something",
+    "table-center"
   ]
 }

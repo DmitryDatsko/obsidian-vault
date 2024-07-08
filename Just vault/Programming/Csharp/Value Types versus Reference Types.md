@@ -1,6 +1,7 @@
 ---
 tags:
-  - csharp/valueType_and_referenceType
+  - csharp/value-types
+  - csharp/reference-types
 files & media: Albahari Joseph - C# 12
 status: In progress
 creation date: 2024-07-01 13:46
@@ -11,7 +12,7 @@ modification date: Monday 1st July 2024 13:46:32
 > *[[Value types]]* включают в себя большинство встроенных типов (в частности, все числовые типы, тип [[char]] и [[bool]]), а также пользовательские типы [[struct]] и [[enum]].
 
 [](Value%20types.md)nce types
-> К *[[Reference types]]* относятся все типы [[class]], [[array]], [[delegate]] и [[interface]]. (Сюда входит предопределенный тип string).
+> К *[[Reference types]]* относятся все типы [[class]], [[array]], [[[](char.md)]] [](bool.md)rface]]. (Сюда входит предопределенный тип string).
 
 # <center>Value types</center>
 Содержимое переменной или константы *[[Value types]]* - это просто значение. Например, содержимое встроенного типа значения [[int]] - это 32 бита данных. Вы можете определить собственный тип значения с помощью ключевого слова struct (Рисунок 1):

@@ -1,6 +1,6 @@
 ---
 tags:
-  - csharp/types_and_conversion
+  - csharp/types-and-conversion
 files & media: Albahari Joseph - C# 12
 status: Done
 creation date: 2024-06-27 21:59

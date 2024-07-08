@@ -1,0 +1,13 @@
+- [x] Нужно в файле с [переменными](obsidian://open?vault=Just%20vault&file=Programming%2FCsharp%2FVariable) добавить описание ситуаций когда поле не может быть просто объявленно, а требует немедленной инициализации([[const]], [[readonly]]).
+- [ ] Закончить [[readonly]], так же в [[Class constructors]] добавить в конец правильные ссылки на [[Field]], [[property]] и [[const]].
+- [x] Закончить [[Field]]
+- [ ] Разница между [[readonly]] и [[const]], записать в [[Difference between const and readonly]]
+- [ ] Переделать [[const]] согласно официальной спецификации и статье на [habr](https://habr.com/ru/articles/541786/).
+- [ ] Дополнить информацию в [[method]], к примеру про модификаторы параметров и влияние на тип передаваевых данных в зависимости от модификаторов параметров.
+- [ ] Дополнить [[Class constructors]], а точнее добавить разделы с объяснением конструкторов с _разными модификаторами доступа_
+- [ ] Разобрать абзац `Overloading constructors` в книге [[Albahari Joseph-Csharp 12 in a Nutshell2024.pdf#page=157]], более подробно. [[Class constructors]]
+      _*The expression can access static members of the class but not instance members. (This is enforced because the object has not been initialized by the constructor at this stage, so any methods that you call on it are likely to fail.)*_
+- [ ] Написать про [[tuple]] и [[tuple deconstructor]], source: [c#corner](https://www.c-sharpcorner.com/article/deconstruction-in-c-sharp-7-0/), [giannisakritidis](https://giannisakritidis.com/blog/Deconstructing-method/#:~:text=In%20C%23%20a%20deconstructor%20or,one%20or%20more%20out%20parameters.), [Microsoft docs](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/functional/deconstruct).
+- [ ] Найти ресурсы по алгоритмам, [примеры в коментариях под статьей](https://habr.com/ru/articles/664360/)
+- [x] Дополнить [[Class constructors#^de01b6]], с книги [[Albahari Joseph-Csharp 12 in a Nutshell2024.pdf#page=162]]
+- [ ] Написать оглавнление для каждого файла.

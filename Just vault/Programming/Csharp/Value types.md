@@ -1,6 +1,6 @@
 ---
 tags:
-  - csharp/value_types
+  - csharp/value-types
 files & media: https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/types#83-value-types
 status: Done
 creation date: 2024-07-03 22:29
